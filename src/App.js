@@ -22,7 +22,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn dddddddddddddddddd React
+            Learn ddddddddddffdfaddddddddd React
           </a>
         </header>
       </div>
